@@ -33,11 +33,11 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.)**https://docs.google.com/spreadsheets/d/1CipbLsB7DKDWJ46hAyn-7MH_wBKhcSpa_Jn09udJByQ/edit#gid=0    (tüm grafikler bu dosyanın içindedir.)
 
-a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
+a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif??**denklemim=3.97E-03+1.81-1.22x^2olarak buldum. A nın neatif olduğunu cismin yavaşlayan bir hız olduğundan ve parabol(polinomsal) bir doğru çizdiğine bağladım.  Eğer cisim hızlansaydı veya sabit hızla devam etseydi a nın değerinin +(pozitif) olacağını düşünüyorum.**
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **bence  sabit değildir çünkü cisim yavaşlaya n hareket yapmıştır.**
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **bence a ve b değişirdi.**
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
 Bu sefer aynı cismin zaman-hız (ortalama hız) grafiğini çizeceksiniz. Bunun için *1.Bölümde* aldığımız sonuçları kullanacağız. Ortalama hızı bulmak için derste öğrendiğimiz ortalama hız formülünü (Delta x/ Delta t) kullanacağız. Google Sheet kullanarak hız-zaman grafiği nasıl çizildiğini anlamak için  [bu videoya](https://www.youtube.com/watch?v=67IsHRmcmfE&t) bakınız. Ortalama hız-zaman grafiğini çizilirken, ortalama hıza karşılık gelen zamanı nasıl belirleyeceksin? Bir andaki  ortalama hızı hesaplarken o noktadan önceki ve o noktadan sonraki (t,x) noktalarını kullanacaksın. Bu yüzden konum grafiğimde 11 veri noktam varken, hız-zaman grafiğinde veri noktam 9'a düştü. (İlk baştaki ve son baştaki noktalar için ortalama hızı hesaplayamam çünkü başlangıç noktasından önce ve bitiş noktasından sonraki (t,x) bilgilerine sahip değilim.)
@@ -46,18 +46,18 @@ Ben kendi verilerim için bir google sheet hazırladım. [Buraya](https://docs.g
 *   Customize ------> Trendline -------> Linear, Label=Use Equation
 kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafiği 1.dereceden (linear-doğrusal) denklem. 
 
-1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](link ver) link veriniz.
+1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](link ver) link veriniz.**https://docs.google.com/spreadsheets/d/1CipbLsB7DKDWJ46hAyn-7MH_wBKhcSpa_Jn09udJByQ/edit#gid=0   (tüm grafikler bu dosyanın içindedir.)
 
-2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
+2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.**https://docs.google.com/spreadsheets/d/1CipbLsB7DKDWJ46hAyn-7MH_wBKhcSpa_Jn09udJByQ/edit#gid=0    (tüm grafikler bu dosyanın içindedir.)
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz.**kinetik sürtünme katsayısını m.a=k.m.g formülünden =-1 olarak buldum.** 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
-
+**ben bir hata bulamadım ancak belki bazı işlemler devirli çıktığı için  ufak kaymalar olmuş olabilir.**
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
-Yardım:
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
+Yardım:**(nasıl yapılabileceğini bilmiyorum)**
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. **x=(1.8+0)/2.t(devamını yapamadım ve tam anlayamadım.)**
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **bulunamazdı çünkü cisim referans noktasından hareket ederk geçiyor yani cismin harekete başlama anını bilmediğimiz için bulunamaz.
