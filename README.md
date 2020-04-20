@@ -54,10 +54,10 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
-**ben bir hata bulamadım ancak belki bazı işlemler devirli çıktığı için  ufak kaymalar olmuş olabilir.**
+**konum olarak 0.74 cm lik  ve zaman olarak 31 ms lik bir hatanızın olduğunu düşünüyorum.**
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:**(nasıl yapılabileceğini bilmiyorum)**
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. **x=(1.8+0)/2.t(devamını yapamadım ve tam anlayamadım.)**
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. **
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **bulunamazdı çünkü cisim referans noktasından hareket ederk geçiyor yani cismin harekete başlama anını bilmediğimiz için bulunamaz.
